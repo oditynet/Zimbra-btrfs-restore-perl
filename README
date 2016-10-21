@@ -1,6 +1,8 @@
-README
 
 Этот скрипт восстанавливает файлы из снапшота и загружает потом в почтовый сервер zimbra
 
-<h1>restore_messages_from_snapshot_to_zimbra.pl --help</h1>
+restore_messages_from_snapshot_to_zimbra.pl --help
+
+TODO:
+ - многопоточность в процедуру загрузки файлов на сервер
 
